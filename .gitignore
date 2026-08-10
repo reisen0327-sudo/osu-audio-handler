@@ -1,0 +1,5 @@
+# PyInstaller 构建缓存与配置；成品 exe 在 dist/，随仓库一起发布
+build/
+*.spec
+__pycache__/
+*.pyc
